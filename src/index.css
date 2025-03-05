@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-work: "Work Sans", sans-serif;
+  --color-grayishPurple: #99789d;
+  --color-darkPurple: #2a0e27;
+  --breakpoint-2xl: 90rem;
+}
